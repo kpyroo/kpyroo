@@ -3,7 +3,8 @@
 </div>
 
 ### Mexo muito com [SkriptLang](https://github.com/SkriptLang/Skript)
-<br>
+<br><br>
+
 Iniciante em Python, HTML, CSS, e PHP
 
 <div align="center">
